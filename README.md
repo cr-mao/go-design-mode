@@ -5,6 +5,7 @@
 
 - [单例模式](singleton/README.md) 
 - [装饰器模式](decorator/README.md)
+- [函数选项模式]
 
 
 
