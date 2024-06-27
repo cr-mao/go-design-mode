@@ -7,6 +7,7 @@
 - [工厂模式](factory/README.md)
 - [对象池模式](objectpool/README.md]
 
+- [组合模式](component/README.md)
 - [装饰器模式](decorator/README.md)
 - [函数选项模式](funcoption/README.md)
 
